@@ -1,0 +1,43 @@
+[ 2019-11-20 16:20:09 ] [ error ] MongoNetworkError: failed to connect to server [127.0.0.1:27017] on first connect [MongoError: Authentication failed.], mongodb Authentication failed
+[ 2019-11-20 16:20:09 ] [ log ] mongodb load success...
+[ 2019-11-20 16:40:37 ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2019-11-20 16:40:37 ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3000/
+[ 2019-11-20 16:40:41 ] [ error ] MongoNetworkError: failed to connect to server [127.0.0.1:2701] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:2701], mongodb Authentication failed
+[ 2019-11-20 16:40:41 ] [ log ] mongodb load success...
+[ 2019-11-20 16:46:06 ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2019-11-20 16:46:07 ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3000/
+[ 2019-11-20 16:46:11 ] [ error ] MongoNetworkError: failed to connect to server [127.0.0.1:2701] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:2701], mongodb Authentication failed
+[ 2019-11-20 16:46:11 ] [ log ] mongodb load success...
+[ 2019-11-20 17:02:48 ] [ error ] MongoNetworkError: failed to connect to server [127.0.0.1:2701] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:2701], mongodb Authentication failed
+[ 2019-11-20 17:02:48 ] [ log ] mongodb load success...
+[ 2019-11-20 17:13:19 ] [ error ] MongoNetworkError: failed to connect to server [127.0.0.1:2701] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:2701], mongodb Authentication failed
+[ 2019-11-20 17:13:19 ] [ log ] mongodb load success...
+[ 2019-11-20 17:17:15 ] [ log ] mongodb load success...
+[ 2019-11-20 17:18:04 ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2019-11-20 17:18:04 ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3000/
+[ 2019-11-20 17:18:04 ] [ log ] mongodb load success...
+[ 2019-11-20 17:42:46 ] [ error ] send mail  error,Invalid login: 535 Error: authentication failed
+[ 2019-11-20 17:55:41 ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2019-11-20 17:55:41 ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3000/
+[ 2019-11-20 17:55:41 ] [ log ] mongodb load success...
+[ 2019-11-20 17:58:48 ] [ error ] send mail 674137071@qq.com error,Invalid login: 535 Error: authentication failed
+[ 2019-11-20 18:05:59 ] [ error ] send mail zhangsan@zs.com error,Invalid login: 535 Error: authentication failed
+[ 2019-11-21 08:43:53 ] [ log ] -------------------------------------swaggerSyncUtils constructor-----------------------------------------------
+[ 2019-11-21 08:43:56 ] [ log ] 服务已启动，请打开下面链接访问: 
+http://127.0.0.1:3000/
+[ 2019-11-21 08:43:56 ] [ log ] mongodb load success...
+[ 2019-11-21 10:34:43 ] [ error ] send mail zhangsan@zs.com error,Invalid login: 535 Error: authentication failed
+[ 2019-11-21 10:52:03 ] [ error ] send mail zhangsan@zs.com error,Invalid login: 535 Error: authentication failed
+[ 2019-11-21 10:53:07 ] [ error ] send mail zhangsan@zs.com error,Invalid login: 535 Error: authentication failed
+[ 2019-11-21 10:57:14 ] [ error ] send mail zhangsan@zs.com error,Invalid login: 535 Error: authentication failed
+[ 2019-11-21 11:00:00 ] [ error ] send mail zhangsan@zs.com error,Invalid login: 535 Error: authentication failed
+[ 2019-11-21 11:04:43 ] [ error ] send mail zhangsan@zs.com error,Invalid login: 535 Error: authentication failed
+[ 2019-11-21 11:06:52 ] [ error ] send mail zhangsan@zs.com error,Invalid login: 535 Error: authentication failed
+[ 2019-11-21 11:24:30 ] [ error ] send mail zhangsan@zs.com error,Invalid login: 535 Error: authentication failed
+[ 2019-11-21 11:30:02 ] [ error ] send mail zhangsan@zs.com error,Invalid login: 535 Error: authentication failed
+[ 2019-11-21 11:38:47 ] [ error ] send mail zhangsan@zs.com error,Invalid login: 535 Error: authentication failed
+[ 2019-11-21 11:42:24 ] [ error ] send mail zhangsan@zs.com error,Invalid login: 535 Error: authentication failed
